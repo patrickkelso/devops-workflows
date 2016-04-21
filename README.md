@@ -9,6 +9,7 @@ Blogs to Watch
 
 * http://continuousdelivery.com/blog/
 * http://itrevolution.com/devops-blog/ 
+* http://blog.scottlowe.org/
 
 Podcasts
 --------
