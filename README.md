@@ -4,6 +4,17 @@ DevOps workflows
 This is a collection of links to articles on DevOps workflows, as well as
 resources for keeping up to date with DevOps and IT in general.
 
+Remember DevOps is not just tools. You need to really get the business as well.
+
+Books to Read
+-------------
+The Phoenix Project - Gene Kim 
+Continuous Delivery - Jez Humble
+Lean Enterprise - Jez Humble
+
+Anything by Gene Kim or Jez Humble really.
+Most of the books listed on PersonalMBA.com
+
 Blogs to Watch
 --------------
 
@@ -24,8 +35,7 @@ Collected links on Puppet workflows
 -----------------------------------
 
 * http://puppetlabs.com/blog/git-workflow-and-puppet-environments
-* http://garylarizza.com/ - Warning Rated M for mature audiences, contains
-                            strong language and adult themes.
+* http://garylarizza.com/ - Warning Rated M for mature audiences, contains strong language and adult themes.
 * https://github.com/adrienthebo/r10k
 * http://somethingsinistral.net/blog/
 * http://rnelson0.com/2014/05/05/puppet-and-git-101-git-basics/
