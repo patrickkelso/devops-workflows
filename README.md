@@ -8,6 +8,9 @@ Remember DevOps is not just tools. You need to really get the business as well.
 
 Books to Read
 -------------
+
+[Humble Hacking Book Bundle](https://www.humblebundle.com/books/no-starch-hacking-books)
+ 
 [The Phoenix Project - Gene Kim](http://www.amazon.com/Phoenix-Project-DevOps-Helping-Business/dp/0988262509) 
 
 [Continuous Delivery - Jez Humble](http://www.amazon.com/Continuous-Delivery-Deployment-Automation-Addison-Wesley/dp/0321601912)
